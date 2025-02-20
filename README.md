@@ -7,7 +7,7 @@
 
 -喜欢python和C++.
 
--欢迎各位大佬指教指教小老弟.
+-欢迎各位大佬多指教一下小老弟.
 
 ![image](https://github.com/user-attachments/assets/2996f926-9cb3-4520-8317-32faf742cd3d)
 
